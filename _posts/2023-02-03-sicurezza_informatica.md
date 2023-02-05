@@ -2,7 +2,7 @@
 layout: post
 title: Sicurezza Informatica
 description: Sicurezza Informatica
-image: assets/images/pic01.jpg
+image: assets/images/hacker_wallpaper.jpg
 ---
 
 Alla fine dell'anno 2021-2022 la professoressa Arruzza ha chiesto di fare una ricerca sotto forma di sito web sulla sicurezza informatica e la sue applicazioni.

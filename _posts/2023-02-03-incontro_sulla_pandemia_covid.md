@@ -2,7 +2,7 @@
 layout: post
 title: Incontro sulla pandemia del COVID-19
 description: Incontro sulla pandemia del COVID-19
-image: assets/images/pic01.jpg
+image: assets/images/raviglione.jpg
 ---
 
 Abbiamo fatto una conferenza con il Dott. Mario Raviglione al termine della quale abbiamo capito molte cose sui virus in generale e in particolare sul COVID-19 e l'importanza delle disposizioni di sicurezza.
