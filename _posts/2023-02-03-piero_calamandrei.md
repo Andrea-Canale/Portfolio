@@ -2,7 +2,7 @@
 layout: post
 title: Piero Calamandrei ai giovani
 description: Piero Calamandrei ai giovani
-image: assets/images/pic01.jpg
+image: assets/images/calamandrei.jpg
 ---
 
 La mattina del 30/09/20, nel buongiorno, la professoressa Foti ci ha letto la lettere di Piero Calamandrei ai giovani, con questa lettura abbiamo iniziato il lavoro di cittadinanza e costituzione.

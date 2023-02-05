@@ -22,9 +22,9 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/Andrea055
-  GitLab:
+  GitLab: https://gitlab.com/Andrea055
   Instagram: https://instagram.com/Andreock
-  LinkedIn: https://www.linkedin.com/in/Andrea-Canale
+  LinkedIn: https://www.linkedin.com/in/andrea-canale-55889223b/
 
 # build settings
 markdown: kramdown
